@@ -4,7 +4,7 @@ import './App.css';
 
 import Contact from './Component/Contact/'
 import Navbar from './Component/Navbar/'
-import Index from './Component/Index/'
+import Index from './Component/'
 
 class App extends Component {
   render (){
